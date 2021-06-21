@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a8254ce-e85c-4939-a2eb-a618ea520e5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/199dadcc-fb77-4eea-ad66-5dca95361cc4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/97f7c60f-1e7c-47c3-a154-d2bc99786181-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/99c9ecc2-c5ba-4604-bd65-0564dee5fb9d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dc942331-d35c-40fe-ad1c-8d5d9e60da79-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fe371783-403e-44ab-b778-b120ea5aee9b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/login/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/setup/SetupTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/PageObjects/DashboardPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/PageObjects/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/setup/SetupTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SinglePage_Task/Facebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SinglePage_Task/Facebook/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1uGee9rdrswJWNriY3O5mjz5tOe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\TRAINING RESOURCES\TestCodeCamp_Programme\TestCodeCamp_Programme\Submissions\SeleniumWebdriverTests\PageObjectModel_Tasks\Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/TRAINING RESOURCES/TestCodeCamp_Programme/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/PageObjectModel_Tasks/testng.xml">
+    <configuration name="C:/TRAINING RESOURCES/TestCodeCamp_Programme/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/PageObjectModel_Tasks/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM_POM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="login" />
+      <option name="MAIN_CLASS_NAME" value="login.LoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/TRAINING RESOURCES/TestCodeCamp_Programme/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/PageObjectModel_Tasks/testng.xml" />
+        <item itemvalue="TestNG.LoginTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a8254ce-e85c-4939-a2eb-a618ea520e5e" name="Default Changelist" comment="" />
+      <created>1624296451998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624296451998</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

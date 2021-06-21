@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6920938-ad9f-4049-9b2e-c43e53c18a58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/0295e43f-8338-4ab7-beb9-5422bc44a837-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/35f2c591-8e21-45be-af52-ebe6115beb83-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/613e3b85-91a9-4c35-90f7-befeeef4b7ea-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/67df690f-b3d3-4823-ae29-60698eb5ccca-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/939059a2-7026-4882-8456-f7ff8871d04f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e83789c8-a50d-4b22-acbd-26f10fd7c2ef-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fb16a775-e61b-463d-859e-a4028464c6fd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/User/UserManagementTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/10f610e6-c5d8-4c12-8e14-be151edeeda4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3b606a9a-5092-44c4-842a-741d4b8a6902-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4ae3aca7-1416-4ce4-899b-ce80690873b9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6014e0dd-72af-4550-9081-5b892488d16e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7cf742df-3695-42f4-98b7-68deb069b4a3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ae8fc6c5-d9d5-42f4-97d3-d777fbc1ce77-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d64e2fc7-c34c-4eb8-87de-d70bd6b6d06c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ed8d7952-31e6-49b0-b40a-4b4ff0234f30-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/User/LoginTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/User/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModel_Tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

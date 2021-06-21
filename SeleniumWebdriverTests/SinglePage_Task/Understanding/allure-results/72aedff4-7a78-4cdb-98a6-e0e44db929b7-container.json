@@ -1,0 +1,1 @@
+{"uuid":"72aedff4-7a78-4cdb-98a6-e0e44db929b7","name":"Command line test","children":["ad16cbb1-ceb0-42a2-9272-7cc1680a58ca"],"befores":[],"afters":[{"name":"teardown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1623844916134,"stop":1623844916864}],"links":[],"start":1623844860823,"stop":1623844917426}

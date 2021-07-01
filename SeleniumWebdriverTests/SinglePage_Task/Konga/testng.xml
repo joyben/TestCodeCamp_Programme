@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/TRAINING RESOURCES/TestCodeCamp_Programme/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_Task/Konga">
+        <classes>
+            <class name="User.UserManagementTests">
+                <methods>
+                    <include name="loginTest"/>
+                    <include name="subcategoryTest"/>
+                    <include name="addtocartTest"/>
+                    <include name="paymentTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

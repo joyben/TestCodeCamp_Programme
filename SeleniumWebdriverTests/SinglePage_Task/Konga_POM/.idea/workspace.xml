@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6afc83b-13ed-4455-8d74-8d073e2d0895" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/086b20d8-3093-451b-86be-37e5f72db6ab-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/133239f8-1041-472a-ac0c-97987a2ef67e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/18007751-f8f8-4731-9128-731d3c3c36fd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/2452a4a2-009d-4d4b-9b66-acf397ee9bb6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/2d2d48c9-7f60-4a8d-b932-5d525efe051f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/39055269-9e06-42a4-bb1d-88ad2357369c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/3dd8292e-721f-4c33-a2fe-b0718a7ef1d7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/428333c2-0714-4592-8a3b-21279558ee0c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/43f0a333-f58e-4aff-bbf8-b19e02d08322-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/535b1a48-3ecd-486e-be75-ef5f21e153d3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/58635b9a-a3a2-4258-b8bd-ed1dd3a6e3a7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/5a688c9f-1131-4c2b-a010-e9860ee8f6c7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/67b2777f-ede9-4328-967b-490c588324eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/6ce9dbad-bb42-4a76-8420-382f99250283-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/6df1c54b-4cfd-4641-9543-bba59a0f0078-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/70912f92-4ee9-4e50-a445-e1b2b9805bc5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/7b9f0170-10ae-4d7b-836f-3b64f78d88be-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/89f24a9d-6455-49d8-88b9-1ea1b1ea109f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/92aea011-3f99-4c4b-890c-68b36ca1448a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/961c6f17-b03e-404f-9bd9-246810483604-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/9aec1954-99e9-48d4-ad9c-10ebbadc72b8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/a2450c9a-cb89-4034-af69-fadf740aacf0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/a55b2db2-edf9-4506-9c92-adfb90cfcc87-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/a5996a94-d711-4020-b8f5-625f125c95cb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/a7cf709a-5827-4b04-acbf-ccba6ee094a0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/b543243e-b24a-4397-865e-c919fc3c8fc4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/b879afa1-618f-4516-b3b9-28f6a6234571-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/d6fa9154-5d9c-4fff-9000-1cb1a7ea4dee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/e9588c77-a4d1-47f3-af75-75ce4be85f8d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/f9725ab5-8606-444f-a60a-d9376538db42-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/fb077bd1-41a5-4d83-801e-f73574cf78b4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/fb958c92-59d0-4bb4-a6ba-7a2bca010bb6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/src/test/java/UserManagementTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/target/test-classes/UserManagementTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModel_Tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Facebook/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ugCDAgO6qA93wELk4Abc7DNysw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6afc83b-13ed-4455-8d74-8d073e2d0895" name="Default Changelist" comment="" />
+      <created>1625077725301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625077725301</updated>
+    </task>
+    <servers />
+  </component>
+</project>
